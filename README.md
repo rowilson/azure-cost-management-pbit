@@ -1,5 +1,5 @@
 # Azure Cost Management Connector for Power BI Template
-This Power BI Template (PBIT) is an accelerator to help you quickly monitor and manage your organization's Azure cost. It is designed to import your organization's subscription metadata to augment the cost management tables. You will be able to drill into your Azure costs and analyze them based on your tags.
+This Power BI Template (PBIT) is an accelerator to help you quickly monitor, visualize, and analyze your organization's Azure costs. It is designed to merge the Azure Cost Management APIs with your organization's subscription metadata to model how your organization governs Azure cost management. You will be able to drill-down into all Azure costs and analyze them based on organization defined tags such as Application, Cost Center, Division, Business Unit, Owner etc.
 
 This templates uses the Azure Cost Management Connector for Power BI Desktop<br>
 https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management
