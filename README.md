@@ -11,7 +11,7 @@ v02.11.23
 
 # Recommended Azure Cost Management References 
 
-(1) <strong>Azure Cost Management API - Data Available through the Connector</strong><br>
+<strong>(1) Azure Cost Management API - Data Available through the Connector</strong><br>
 https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management#data-available-through-the-connector
 
 Cost Management Tables
@@ -27,7 +27,7 @@ Cost Management Tables
 - RI Usage Summary (riusagesummary)
 - Balance Summary - Current Period (balancesummary)
 
-(2) Azure Cost Management + Billing Documentations (Best Practices)<br>
+<strong>(2) Azure Cost Management + Billing Documentations (Best Practices)</strong><br>
 https://learn.microsoft.com/en-us/azure/cost-management-billing/
 
 - Product Documentation
@@ -35,20 +35,20 @@ https://learn.microsoft.com/en-us/azure/cost-management-billing/
 - Cost Management Best Practices
 - How-To and Trainng
 
-(3) Azure Cost Management (Learn)<br>
+<strong>(3) Azure Cost Management (Learn)</strong><br>
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement
 
-(4) Considerations and Limitations (e.g. 1GB PBIX)<br>
+<strong>(4) Considerations and Limitations (e.g. 1GB PBIX)</strong><br>
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement#considerations-and-limitations
 
-(5) Microsoft Cost Management App (Microsoft AppSource)<br>
+<strong>(5) Microsoft Cost Management App (Microsoft AppSource)</strong><br>
 https://appsource.microsoft.com/en-US/product/power-bi/costmanagement.azurecostmanagementapp
 
 # Disclaimer
 THE SCRIPTS ARE PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
 
 # Questions or Help 
-Please contact Rob Wilson rowilson@microsoft.com
+Please contact Rob Wilson rowilson@microsoft.com | Follow Me on Twitter @robswilson
 
 # Contributing
 This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
