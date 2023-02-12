@@ -1,7 +1,7 @@
 # Azure Cost Management Connector for Power BI Template
 This Power BI Template (PBIT) is an accelerator to help you quickly monitor and manage your organization's Azure cost. It is designed to import your organization's subscription metadata to augment the cost management tables. You will be able to drill into your Azure costs and analyze them based on your tags.
 
-This templates uses the Azure Cost Management Connector for Power BI Desktop (See Limits below e.g. 1GB PBI Desktop)
+This templates uses the Azure Cost Management Connector for Power BI Desktop<br>
 https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management
 
 To connect, you must use an Enterprise Administrator account for Enterprise Agreements, or have appropriate permissions at the billing account or billing profile levels for Microsoft Customer Agreements.
@@ -27,7 +27,7 @@ Cost Management Tables
 - RI Usage Summary (riusagesummary)
 - Balance Summary - Current Period (balancesummary)
 
-(2) Azure Cost Management + Billing Documentations (Best Practices)
+(2) Azure Cost Management + Billing Documentations (Best Practices)<br>
 https://learn.microsoft.com/en-us/azure/cost-management-billing/
 
 - Product Documentation
@@ -35,13 +35,13 @@ https://learn.microsoft.com/en-us/azure/cost-management-billing/
 - Cost Management Best Practices
 - How-To and Trainng
 
-(3) Azure Cost Management (Learn)
+(3) Azure Cost Management (Learn)<br>
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement
 
-(4) Considerations and Limitations (e.g. 1GB PBIX)
+(4) Considerations and Limitations (e.g. 1GB PBIX)<br>
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement#considerations-and-limitations
 
-(5) Cost Management App (Microsoft AppSource) 
+(5) Microsoft Cost Management App (Microsoft AppSource)<br>
 https://appsource.microsoft.com/en-US/product/power-bi/costmanagement.azurecostmanagementapp
 
 # Disclaimer
