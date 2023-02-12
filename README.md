@@ -1,14 +1,18 @@
-# Azure Cost Management Power BI Template
+# Azure Cost Management Connector for Power BI Template
 This cost management dashboard is an addon to the Azure Cost Management API, you will be able to drill into your Azure costs and analyze them based on your tags.
 
 # Latest Version
 v02.11.23
 
-# Getting Started
-4) Azure Cost Management API - Data Available through the Connector
-https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management#data-available-through-the-connector
+# Getting Started - Read 
+
+(1) Azure Cost Management Connector for Power BI Desktop (See Limits below e.g. 1GB PBI Desktop)
+https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management
 
 To connect, you must use an Enterprise Administrator account for Enterprise Agreements, or have appropriate permissions at the billing account or billing profile levels for Microsoft Customer Agreements.
+
+(2) Azure Cost Management API - Data Available through the Connector
+https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management#data-available-through-the-connector
 
 Cost Management Tables
 - Budgets (budgets)
@@ -23,17 +27,13 @@ Cost Management Tables
 - RI Usage Summary (riusagesummary)
 - Balance Summary - Current Period (balancesummary)
 
-5) Azure Cost Management (Learn)
+(3) Azure Cost Management (Learn)
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement
-https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement#connect-to-azure-cost-management-from-power-query-desktop
 
-6) Considerations and Limitations (e.g. 1GB PBIX)
+(4) Considerations and Limitations (e.g. 1GB PBIX)
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement#considerations-and-limitations
 
-7) Other Power BI Templates - Marketplace
-https://learn.microsoft.com/en-us/power-bi/connect-data/service-template-apps-overview
-
-8) Cost Management App (Microsoft AppSource) 
+(5) Cost Management App (Microsoft AppSource) 
 https://appsource.microsoft.com/en-US/product/power-bi/costmanagement.azurecostmanagementapp
 
 
