@@ -11,7 +11,7 @@ v02.11.23
 
 # Recommended Azure Cost Management References 
 
-(1) Azure Cost Management API - Data Available through the Connector
+(1) Azure Cost Management API - Data Available through the Connector<br>
 https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management#data-available-through-the-connector
 
 Cost Management Tables
