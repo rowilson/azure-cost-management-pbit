@@ -50,7 +50,7 @@ https://learn.microsoft.com/en-us/azure/architecture/icons/
 <br><br>
 <img src="https://github.com/rowilson/azure-cost-management-pbit/blob/main/Images/Dashboard%20-%20Architecture%20Icons.png" alt="Azure Architecture Icons">
 <br><br>
-Please review icons terms of use prior to use. Architecture Icons are not included in this Github download.<br>
+Please review icons terms of use prior to use. Architecture Icons are not included in this Github repository.<br>
 <br>
 Microsoft permits the use of these icons in architectural diagrams, training materials, or documentation. You may copy, distribute, and display the icons only for the permitted use unless granted explicit permission by Microsoft.
 
