@@ -45,8 +45,10 @@ https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement#con
 https://appsource.microsoft.com/en-US/product/power-bi/costmanagement.azurecostmanagementapp
 
 # Azure Architecture Icons 
-The Power BI template uses Azure Icons (SVG). Please review icons terms of use.<br>
+The Power BI template uses Azure Icons (SVG)<br>
 https://learn.microsoft.com/en-us/azure/architecture/icons/
+<br><br>
+Please review icons terms of use -<br>
 <br><br>
 Microsoft permits the use of these icons in architectural diagrams, training materials, or documentation. You may copy, distribute, and display the icons only for the permitted use unless granted explicit permission by Microsoft.
 
