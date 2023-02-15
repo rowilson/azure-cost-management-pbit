@@ -44,6 +44,12 @@ https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement#con
 <strong>(5) Microsoft Cost Management App (Microsoft AppSource)</strong><br>
 https://appsource.microsoft.com/en-US/product/power-bi/costmanagement.azurecostmanagementapp
 
+# Azure Architecture Icons 
+The Power BI template uses Azure Icons (SVG). Please review icons terms of use.<br>
+https://learn.microsoft.com/en-us/azure/architecture/icons/
+<br>
+Microsoft permits the use of these icons in architectural diagrams, training materials, or documentation. You may copy, distribute, and display the icons only for the permitted use unless granted explicit permission by Microsoft.
+
 # Disclaimer
 THE SCRIPTS ARE PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
 
