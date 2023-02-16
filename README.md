@@ -7,7 +7,7 @@ https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-co
 To connect, you must use an Enterprise Administrator account for Enterprise Agreements, or have appropriate permissions at the billing account or billing profile levels for Microsoft Customer Agreements.
 
 # Latest Version
-v02.11.23
+v02.15.23
 
 # Recommended Azure Cost Management References 
 
