@@ -64,8 +64,8 @@ Azure News and Cost Management Announcements are pulled directly from the follow
 (3) Azure Cost Management News - https://azurecomcdn.azureedge.net/en-us/blog/tag/cost-management/feed/
 <br>
 (4) Power BI - https://powerbi.microsoft.com/en-us/blog/feed/
-<br>
-The Power Automate Flows and SQL Schema are not included in this teamplate.
+<br><br>
+The Power Automate Flows and SQL Schema are not included in the current template version. It will be availabe in a future release.
 
 # Disclaimer
 THE SCRIPTS ARE PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
