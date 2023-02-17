@@ -54,6 +54,19 @@ Please review icons terms of use prior to use. Architecture Icons are not includ
 <br>
 Microsoft permits the use of these icons in architectural diagrams, training materials, or documentation. You may copy, distribute, and display the icons only for the permitted use unless granted explicit permission by Microsoft.
 
+# RSS Feeds (Azure Announcements) 
+Azure News and Cost Management Announcements are pulled directly from the following RSS Feeds
+<br><br>
+(1) Azure Updates - https://azurecomcdn.azureedge.net/en-us/updates/feed/
+<br>
+(2) Azure Announcements - https://azurecomcdn.azureedge.net/en-us/blog/topics/announcements/feed/
+<br>
+(3) Azure Cost Management News - https://azurecomcdn.azureedge.net/en-us/blog/tag/cost-management/feed/
+<br>
+(4) Power BI - https://powerbi.microsoft.com/en-us/blog/feed/
+<br>
+The Power Automate Flows and SQL Schema are not included in this teamplate.
+
 # Disclaimer
 THE SCRIPTS ARE PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
 
