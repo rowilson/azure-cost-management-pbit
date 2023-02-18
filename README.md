@@ -9,6 +9,9 @@ To connect, you must use an Enterprise Administrator account for Enterprise Agre
 # Latest Version
 v02.17.23b
 
+# Installation
+https://github.com/rowilson/azure-cost-management-pbit/blob/main/Documentation/Power%20BI%20Template%20for%20Azure%20Cost%20Management%20-%20Instructions%20v12.15.22.pdf
+
 # Recommended Azure Cost Management References 
 
 <strong>(1) Azure Cost Management API - Data Available through the Connector</strong><br>
