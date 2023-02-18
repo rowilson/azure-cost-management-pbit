@@ -66,7 +66,7 @@ Azure News and Cost Management Announcements are pulled directly from the follow
 (4) Power BI - https://powerbi.microsoft.com/en-us/blog/feed/
 <br><br>
 The Power Automate Flows and SQL Schema are not included in the current template version. It will be availabe in a future release.
-<br>
+<br><br>
 <img src="https://github.com/rowilson/azure-cost-management-pbit/blob/main/Images/Dashboard%20-%20Announcements.png" alt="Azure Announcements">
 <br><br>
 # Disclaimer
