@@ -41,13 +41,14 @@ https://learn.microsoft.com/en-us/azure/cost-management-billing/
 <strong>(3) Azure Cost Management (Learn)</strong><br>
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement
 
-<strong>(4) Azure Cost Management Discipline, Best Practices, Governance Templates/<br>
+<strong>(4) Azure Cost Management Discipline, Best Practices, Governance Templates/</strong><br>
 https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/
 
-- Cost Management discipline Template
-- Cost Management Tools in Azure - Native Tools for Policy and Process Automateion
+- Cost Management Discipline Template
+- Cost Management Tools in Azure - Native Tools for Policy and Process Automation
+- Cost Management sample Azure Policy statements
 - Cost Management Best Practices
-- Cost Management discipline Improvement
+- Cost Management Discipline Improvement
 
 <strong>(5) Considerations and Limitations (e.g. 1GB PBIX)</strong><br>
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement#considerations-and-limitations
