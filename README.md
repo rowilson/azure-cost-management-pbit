@@ -41,10 +41,16 @@ https://learn.microsoft.com/en-us/azure/cost-management-billing/
 <strong>(3) Azure Cost Management (Learn)</strong><br>
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement
 
-<strong>(4) Considerations and Limitations (e.g. 1GB PBIX)</strong><br>
+<strong>(4) Azure Cost Management Discipline, Best Practices, Governance Templates/<br>
+https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/
+
+<strong>(5) Considerations and Limitations (e.g. 1GB PBIX)</strong><br>
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement#considerations-and-limitations
 
-<strong>(5) Microsoft Cost Management App (Microsoft AppSource)</strong><br>
+<strong>(6) Microsoft Management Videos - Best Practices (YouTube)</strong><br>
+https://www.youtube.com/c/AzureCostManagement
+
+<strong>(7) Microsoft Cost Management App (Microsoft AppSource)</strong><br>
 https://appsource.microsoft.com/en-US/product/power-bi/costmanagement.azurecostmanagementapp
 
 # Azure Architecture Icons 
