@@ -6,7 +6,8 @@ https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-co
 
 To connect, you must use an Enterprise Administrator account for Enterprise Agreements, or have appropriate permissions at the billing account or billing profile levels for Microsoft Customer Agreements.
 
-# Latest Version
+# Version History
+v03.10.23 (Current)
 v02.17.23b
 
 # Installation
@@ -22,7 +23,7 @@ Cost Management Tables
 - Pricing Sheet with Enterprise Discount (pricesheets)
 - Usage (usagedetails)
 - Amoritized Usage (usagedetailsamortized)
-- Reservation Charges (richarges) (Depreciating)
+- Reservation Charges (richarges) (Depreciating) (NOTE: Not included in Template)
 - Reservation Transactions (ritransactions) (Replacing Resevation Charges)
 - RI Recommendations - Single (rirecommendationssingle)
 - RI Recommendations - Shared (rirecommendationsshared)
