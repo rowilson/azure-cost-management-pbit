@@ -65,11 +65,11 @@ https://www.youtube.com/c/AzureCostManagement
 https://appsource.microsoft.com/en-US/product/power-bi/costmanagement.azurecostmanagementapp
 
 # Azure Architecture Icons 
-The Power BI Azure Cost Management Template uses Azure Architecture Icons (SVG)<br>
-Azure Icons - https://learn.microsoft.com/en-us/azure/architecture/icons/
-Power Platform Icons - https://learn.microsoft.com/en-us/power-platform/guidance/icons
-M365 Icons - https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons-templates?view=o365-worldwide
-D365 Icons - https://learn.microsoft.com/en-us/dynamics365/get-started/icons
+The Power BI Azure Cost Management Template uses Azure Architecture Icons (SVG)<br><br>
+Azure Icons - https://learn.microsoft.com/en-us/azure/architecture/icons/<br>
+Power Platform Icons - https://learn.microsoft.com/en-us/power-platform/guidance/icons<br>
+M365 Icons - https://learn.microsoft.com/en-us/microsoft-365/solutions/architecture-icons-templates?view=o365-worldwide<br>
+D365 Icons - https://learn.microsoft.com/en-us/dynamics365/get-started/icons<br>
 <br><br>
 <img src="https://github.com/rowilson/azure-cost-management-pbit/blob/main/Images/Dashboard%20-%20Architecture%20Icons.png" alt="Azure Architecture Icons">
 <br><br>
