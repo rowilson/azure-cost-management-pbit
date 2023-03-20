@@ -7,12 +7,14 @@ https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-co
 To connect, you must use an Enterprise Administrator account for Enterprise Agreements, or have appropriate permissions at the billing account or billing profile levels for Microsoft Customer Agreements.
 
 # Template Version History
-v03.14.23 (Current)<br>
+v03.19.23 (Current)<br>
+v03.14.23<br>
 v03.10.23<br>
 v02.17.23b<br>
 
 # Metadata File Version History
-v03.10/23 (Current)<br>
+v03.19.23 (Current)<br>
+v03.10.23<br>
 
 # Installation
 https://github.com/rowilson/azure-cost-management-pbit/blob/main/Documentation/Power%20BI%20Template%20for%20Azure%20Cost%20Management%20-%20Instructions%20v12.15.22.pdf
