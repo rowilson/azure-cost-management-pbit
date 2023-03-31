@@ -63,8 +63,12 @@ https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement#con
 <strong>(6) Microsoft Management Videos - Best Practices (YouTube)</strong><br>
 https://www.youtube.com/c/AzureCostManagement
 
-<strong>(7) Microsoft Cost Management App (Microsoft AppSource)</strong><br>
+# Other Azure Power BI Templates 
+<strong>(1) Microsoft Cost Management App (Microsoft AppSource)</strong><br>
 https://appsource.microsoft.com/en-US/product/power-bi/costmanagement.azurecostmanagementapp
+
+<strong>(2) Chris Bowman Github Template </strong><br>
+https://github.com/chris-bowman/Azure-Cost-Reporting
 
 # Azure Architecture Icons 
 The Power BI Azure Cost Management Template uses Azure Architecture Icons (SVG)<br><br>
