@@ -28,8 +28,8 @@ Cost Management Tables
 - Budgets (budgets)
 - Pricing Sheet with Enterprise Discount (pricesheets)
 - Usage (usagedetails)
-- Amoritized Usage (usagedetailsamortized) <strong>Note: Default Table used in Template</strong>
-- Reservation Charges (richarges) (Depreciating) (NOTE: Not included in Template)
+- Amoritized Usage (usagedetailsamortized) <strong>(NOTE: Default Cost Table used in Template)</strong>
+- Reservation Charges (richarges) (Depreciating) <strong>(NOTE: Not used in Template)</strong>
 - Reservation Transactions (ritransactions) (Replacing Resevation Charges)
 - RI Recommendations - Single (rirecommendationssingle)
 - RI Recommendations - Shared (rirecommendationsshared)
