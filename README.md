@@ -37,7 +37,12 @@ Cost Management Tables
 - RI Usage Summary (riusagesummary)
 - Balance Summary - Current Period (balancesummary)
 
-<strong>(2) Azure Cost Management + Billing Documentations (Best Practices)</strong><br>
+<strong>(2) Cost Mangement Automation - Long-Term Storage</strong><br>
+
+The Power BI Connector does not store cost management data to long-term persistent storage. For automating cost data to long-term storage, please reference the APIs -
+https://learn.microsoft.com/en-us/azure/cost-management-billing/automate/automation-overview#available-apis
+
+<strong>(3) Azure Cost Management + Billing Documentations (Best Practices)</strong><br>
 https://learn.microsoft.com/en-us/azure/cost-management-billing/
 
 - Product Documentation
@@ -45,10 +50,10 @@ https://learn.microsoft.com/en-us/azure/cost-management-billing/
 - Cost Management Best Practices
 - How-To and Trainng
 
-<strong>(3) Azure Cost Management (Learn)</strong><br>
+<strong>(4) Azure Cost Management (Learn)</strong><br>
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement
 
-<strong>(4) Azure Cost Management Discipline, Best Practices, Governance Templates/</strong><br>
+<strong>(5) Azure Cost Management Discipline, Best Practices, Governance Templates/</strong><br>
 https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-management/
 
 - Cost Management Discipline Template
@@ -57,10 +62,10 @@ https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/cost-man
 - Cost Management Best Practices
 - Cost Management Discipline Improvement
 
-<strong>(5) Considerations and Limitations (e.g. 1GB PBIX)</strong><br>
+<strong>(6) Considerations and Limitations (e.g. 1GB PBIX)</strong><br>
 https://learn.microsoft.com/en-us/power-query/connectors/azurecostmanagement#considerations-and-limitations
 
-<strong>(6) Microsoft Management Videos - Best Practices (YouTube)</strong><br>
+<strong>(7) Microsoft Management Videos - Best Practices (YouTube)</strong><br>
 https://www.youtube.com/c/AzureCostManagement
 
 # Other Azure Power BI Templates 
