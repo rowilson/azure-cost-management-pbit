@@ -39,7 +39,7 @@ Cost Management Tables
 
 <strong>(2) Cost Mangement Automation - Long-Term Storage</strong><br>
 
-The Power BI Connector Template does not store cost management data to long-term persistent storage. For automating cost management data to long-term storage, please reference the APIs -
+This Power BI Connector template does not store cost management data to long-term persistent storage. For automating cost management data to long-term storage, please reference the APIs -
 https://learn.microsoft.com/en-us/azure/cost-management-billing/automate/automation-overview#available-apis
 
 <strong>(3) Azure Cost Management + Billing Documentations (Best Practices)</strong><br>
