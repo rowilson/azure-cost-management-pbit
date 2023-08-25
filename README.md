@@ -19,6 +19,15 @@ v3.10.23<br>
 # Installation
 https://github.com/rowilson/azure-cost-management-pbit/blob/main/Documentation/Power%20BI%20Template%20for%20Azure%20Cost%20Management%20-%20Instructions%20v12.15.22.pdf
 
+# Supported Account Type
+
+This Power BI Cost Management template is designed for Enterprise Agreement (EA) Accounts.  
+
+It would need to be modified for Microsoft Customer Agreement (MCA) or Pay-as-you-go (PAYGO) agreements.
+
+https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/understand-usage
+
+
 # Recommended Azure Cost Management References 
 
 <strong>(1) Azure Cost Management API - Data Available through the Connector</strong><br>
