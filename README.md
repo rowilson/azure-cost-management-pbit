@@ -21,7 +21,7 @@ https://github.com/rowilson/azure-cost-management-pbit/blob/main/Documentation/P
 
 # Supported Account Type
 
-This Power BI Cost Management template is designed for Enterprise Agreement (EA) Accounts.  
+This Power BI Cost Management template is designed for <strong>Enterprise Agreement (EA)</strong> Accounts.  
 
 It would need to be modified for Microsoft Customer Agreement (MCA) or Pay-as-you-go (PAYGO) agreements.
 
