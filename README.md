@@ -19,6 +19,8 @@ v3.19.23<br>
 v3.10.23<br>
 
 # Installation
+Note as of 11/28/23: Currently updated for v3.19.23. Will publish updated installation documentation for v11.28.23.<br> 
+
 https://github.com/rowilson/azure-cost-management-pbit/blob/main/Documentation/Power%20BI%20Template%20for%20Azure%20Cost%20Management%20-%20Instructions%20v12.15.22.pdf
 
 # Supported Account Type
